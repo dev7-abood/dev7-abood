@@ -48,11 +48,6 @@
 
 ---
 
-### 🌟 Fun Fact
-When I’m not coding, you’ll find me 🐾 hanging out with **Tutu**, my adorable cat, or 📖 reading fascinating books!
-
----
-
 ### 🛠️ Tech Icons
 
 #### **Languages & Frameworks**
