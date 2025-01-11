@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Abdulrhman H!
 
 🚀 **Full Stack Developer** | Laravel 🚀 Django 🚀 TailwindCSS 🚀 Next.js 🚀 Python 🚀 TypeScript
 
@@ -43,8 +43,8 @@
 ## 🤝 Connect With Me
 
 - 🌐 Portfolio: [dev7-abood.com](https://dev7-abood.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](#)
-- 💌 Email: [YourEmail@example.com](mailto:YourEmail@example.com)
+- 💼 LinkedIn: [linkedin.com](https://www.linkedin.com/in/dev7-abood/)
+- 💌 Email: [dev7.abood@gmail.com](mailto:dev7.abood@gmail.com)
 
 ---
 
