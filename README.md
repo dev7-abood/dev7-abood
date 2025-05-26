@@ -42,7 +42,7 @@
 
 ## 🤝 Connect With Me
 
-- 🌐 Portfolio: [dev7-abood.com](https://dev7-abood.com)
+- 🌐 Portfolio: [aherzallah.com](https://aherzallah.com/)
 - 💼 LinkedIn: [linkedin.com](https://www.linkedin.com/in/dev7-abood/)
 - 💌 Email: [dev7.abood@gmail.com](mailto:dev7.abood@gmail.com)
 
