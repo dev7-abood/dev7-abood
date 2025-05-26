@@ -73,4 +73,20 @@ When I’m not coding, you’ll find me 🐾 hanging out with **Tutu**, my adora
 
 ---
 
+### 💸 Support My Work
+
+If you enjoy what I do and want to help me keep building, feel free to donate 🫶
+
+| 🪙 **Crypto** | 🔗 **Network** | 📬 **Address** |
+|--------------|----------------|----------------|
+| ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white) **Bitcoin (BTC)** | Bitcoin | `bc1qxyzexamplebtcaddresshere` |
+| ![Tether](https://img.shields.io/badge/USDT(TRC20)-26A17B?style=flat&logo=tether&logoColor=white) **USDT (TRC20)** | TRON | `TXxyzexampletrc20addresshere` |
+| ![Tether](https://img.shields.io/badge/USDT(ERC20)-3C3C3D?style=flat&logo=ethereum&logoColor=white) **USDT (ERC20)** | Ethereum | `0xabcxyzexampleerc20addresshere` |
+
+> 💡 *Make sure you double-check the network before sending.*
+
+Thanks for supporting open-source and independent development! 🙏
+
+---
+
 ⭐️ **Let's create something amazing together!** ⭐️
